@@ -5,6 +5,7 @@ body {
     font-family: "roboto", "sans-serif";
 }
 
+/* header */
 header {
     font-family: "shrikhand", "sans-serif";
     text-align: center;
@@ -15,6 +16,7 @@ h1 {
     margin: 0px;
 }
 
+/* main */
 main .city {
     display: flex;
     align-items: center;
